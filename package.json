@@ -1,0 +1,18 @@
+{
+  "name": "vite-userscript",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsc && vite build --mode development --watch",
+    "build": "tsc && vite build --mode production",
+    "format": "prettier --write .",
+    "updateAll": "pnpm up --latest"
+  },
+  "devDependencies": {
+    "@types/tampermonkey": "^4.0.5",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.4",
+    "vite": "^3.1.8"
+  }
+}
