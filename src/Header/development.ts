@@ -5,5 +5,5 @@
 // @author        NekoChan
 // @match         https://www.google.com/*
 // @noframes
-// @require       file://...your_path...\nHentai-Enhanced-Userscript\dist\development.user.js
+// @require       file://...your_path...\dist\development.user.js
 // ==/UserScript==
